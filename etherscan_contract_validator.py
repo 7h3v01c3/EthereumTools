@@ -6,7 +6,7 @@ import re
 # Load environment variables
 load_dotenv("venv/.env")
 api_key = os.getenv("API_Key")
-# Note for the user to obtain an API key on Etherscan by creating an account
+# Note you mudy obtain an API key on Etherscan by creating an account
 # and setting the API key in the environment variables
 # More information can be found at: https://etherscan.io/apis
 
